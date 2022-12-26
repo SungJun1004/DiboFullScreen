@@ -29,8 +29,7 @@ namespace FullScreen
 
         private void Form2_Load(object sender, EventArgs e)
         {
-            // this.Size = new Size(2000, 1400);
-            // this.Location = new Point(1000,2000);
+            
             Rectangle fullScrenn_bounds; 
             fullScrenn_bounds = Rectangle.Empty;
 
